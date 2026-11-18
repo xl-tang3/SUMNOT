@@ -81,7 +81,7 @@ Example single-GPU launch:
   --num_sources=7 \
   --de_type  LF_0.075T LF_0.1T LF_0.3T LF_0.5T LF_0.8T  \
   --patch_size=128 \
-  --type=sumnot_mri_post \
+  --type=sumnot_mri \
   --resume_training=false \
 ```
 
